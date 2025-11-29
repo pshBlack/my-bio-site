@@ -126,3 +126,4 @@
 import "@/assets/styles/98.css";
 import {Linkedin, Github, Send, Mail} from "lucide-vue-next";
 </script>
+<style scoped></style>
