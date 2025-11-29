@@ -14,7 +14,7 @@
 <style scoped>
 @media screen and (max-width: 600px) {
   fieldset {
-    max-width: 200px !important;
+    min-width: 80px !important;
   }
 }
 </style>
