@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@tato30/vue-pdf": "^1.11.5",
     "98.css": "^0.1.21",
     "lucide-vue-next": "^0.555.0",
     "nuxt": "^4.2.1",
