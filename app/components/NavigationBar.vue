@@ -25,7 +25,7 @@
     </div>
     <div style="display: flex; justify-content: center">
       <p style="font-size: 16px" class="description-text">
-        Front-end & Software Developer, Student Network Engineer, UX/UI Designer
+        Vue & React Frontend Developer, UX/UI Designer, Network Engineer Student
       </p>
     </div>
     <div
