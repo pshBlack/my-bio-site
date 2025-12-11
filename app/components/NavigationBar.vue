@@ -102,7 +102,7 @@
         </a>
       </div>
     </div>
-    <fieldset
+    <!-- <fieldset
       style="
         margin-top: 15px;
         background-color: #c0c0c0;
@@ -119,7 +119,7 @@
       <NuxtLink to="/about" class="nav-button"
         ><div><p>About me</p></div></NuxtLink
       >
-    </fieldset>
+    </fieldset> -->
   </div>
 </template>
 <script setup lang="js">

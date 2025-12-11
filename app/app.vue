@@ -1,6 +1,9 @@
 <template>
   <main>
-    <div class="window" style="margin: 32px; min-width: 680px; height: 100%">
+    <div
+      class="window"
+      style="margin: 32px; min-width: 680px; max-width: 730px; height: 100%"
+    >
       <NavigationBar />
       <NuxtPage style="margin: 0px 7px 12px 7px" />
     </div>
